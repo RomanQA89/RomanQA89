@@ -2,6 +2,8 @@
 
 ## I'm a QA automation Engineer
 
+---
+
 ### Languages and Tools
 ![python](https://img.shields.io/badge/-python-FF8C00?style=for-the-badge&logo=python&logoColor=000000)
 <img src="https://img.shields.io/badge/Postman-FF8C00?style=for-the-badge&logo=Postman&logoColor=FFFF00"/>
@@ -13,6 +15,11 @@
 <img src="https://img.shields.io/badge/pytest-FF8C00?style=for-the-badge&logo=pytest&logoColor=7FFFD4"/>
 <img src="https://img.shields.io/badge/selenium-FF8C00?style=for-the-badge&logo=selenium&logoColor=8A2BE2"/>
 
-
+---
 
 Follow me
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:panovrom5@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Roman_sd1)
+
+---
