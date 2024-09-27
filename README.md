@@ -1,9 +1,7 @@
 ![Header](https://github.com/RomanQA89/RomanQA89/blob/main/assets/logoza.ru%20(2).png)
 
-## I'm a QA automation Engineer
-
 #### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!+I'm+a+QA+automation+Engineer)
-
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Roman)
 ---
 
 ### Languages and Tools
