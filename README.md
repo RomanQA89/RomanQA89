@@ -2,7 +2,7 @@
 
 ## I'm a QA automation Engineer
 
-#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer)
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+developer)
 
 - 🌱 I’m currently learning ML & DS, backend
 
