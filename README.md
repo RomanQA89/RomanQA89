@@ -1,4 +1,3 @@
-![Header](https://github.com/RomanQA89/RomanQA89/blob/main/assets/logoza.ru%20(2).png)
 
 ### Hello! I'm Roman
 #### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+automation+Engineer)
